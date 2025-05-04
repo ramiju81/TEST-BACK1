@@ -21,9 +21,9 @@ El proyecto está construido principalmente con **Python**, complementado con **
 ## 📅 Actividad Reciente
 
 Últimos cambios:
+- `7dd6b98 - Actualizar README.md - 2025-05-04 (2025-05-04)`
 - `693d488 - Actualizar README.md - 2025-05-04 (2025-05-04)`
 - `0657fff - ActualizaciÃ³n automÃ¡tica 2025-05-04 00:10 (2025-05-04)`
-- `06e1fee - Actualizar README.md (2025-05-03)`
 
 ---
 
